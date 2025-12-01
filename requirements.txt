@@ -1,0 +1,4 @@
+tweepy
+requests
+python-dotenv
+ openai  # Uncomment if using AI facts
